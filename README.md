@@ -1,3 +1,16 @@
+
+<!--访问次数-->
+<h2>Watching</h2>
+<div align="left">
+
+</div>
+<!-- 访问数据-鸭鸭-->
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=markSeven007&amp;label=Views&amp;color=0e75b6&amp;style=flat"style="max-width: 100%;">
+<img src="https://github.com/heartyang520/HeartYang.github.io/blob/main/share/duck.gif?raw=true"width="20%">
+</div>
+
+
 ### Hi there 👋
 
 <!--
@@ -14,5 +27,19 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<div align="center"> <img src="https://visitor-badge.glitch.me/badge?page_id=markSeven007" /> </div>
-<div align="center"> <img src="https://metrics.lecoq.io/markSeven007?template=classic&config.timezone=Asia%2FShanghai"> </div>
+- 🌱 I’m currently learning **Android**.
+
+ <h1 align="center"> <a href="https://sunguoqi.com/"> <img src="https://readme-typing-svg.herokuapp.com/?lines=%22markSeven007%22;markSeven007&center=true&size=27"> </a> </h1>
+
+
+
+
+
+
+ <!--使用的语言-搬砖动画-->
+<div align="center">
+
+  <img src="https://github.com/heartyang520/HeartYang.github.io/blob/main/share/hacker_a.gif?raw=true.gif" width="40%">
+
+</div>
+
